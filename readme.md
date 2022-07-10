@@ -1,3 +1,20 @@
+Tampilan Home
+
+![beranda](https://user-images.githubusercontent.com/20883158/178140103-9d1c6713-1051-4405-9958-abf58eb03cb6.png)
+*******************
+Tampilan Menu
+
+![karya seni 1](https://user-images.githubusercontent.com/20883158/178140108-bb26f4f5-4784-4f84-a49e-a8c705b48f6b.png)
+*******************
+Tampilan Menu
+
+![karya seni 2](https://user-images.githubusercontent.com/20883158/178140116-28f12f55-1910-4157-9b51-e8e6056f3aa6.png)
+*******************
+Tampilan Kontak
+
+![mengontak](https://user-images.githubusercontent.com/20883158/178140129-938ab70f-892f-42d1-b0c6-c388f97d6b68.png)
+*******************
+
 ###################
 What is CodeIgniter
 ###################
